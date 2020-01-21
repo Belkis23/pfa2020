@@ -1,0 +1,10 @@
+[
+    {
+        "model-name": "clubs",
+        "resource-file": "clubs.json"
+    },
+    {
+        "model-name": "etudiants",
+        "resource-file": "etudiants.json"
+    }
+]
